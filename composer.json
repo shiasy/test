@@ -1,0 +1,16 @@
+{
+  "name": "shiasy/test",
+  "description": "Generate random password of a given length",
+  "type": "library",
+  "require": {
+    "php": ">=7.2.0"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Mohammad Shiasy",
+      "email": "shiasy13661375@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
